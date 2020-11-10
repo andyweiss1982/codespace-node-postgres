@@ -3,5 +3,6 @@
     "editor.defaultFormatter": "dbaeumer.vscode-eslint",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
-    "eslint.format.enable": true
+    "eslint.format.enable": true,
+    "terminal.integrated.shell.osx": "/bin/zsh"
 }
