@@ -4,5 +4,6 @@
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "eslint.format.enable": true,
-    "terminal.integrated.shell.osx": "/bin/zsh"
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.shell.linux": "/bin/zsh"
 }
